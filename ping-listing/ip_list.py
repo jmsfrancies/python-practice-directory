@@ -1,7 +1,7 @@
 import os
 
 
-with open("truemfg.txt") as file:
+with open("ipaddress.txt") as file:
     park = file.read()
     park = park.splitlines()
     print(" {park}  \n")
