@@ -1,0 +1,6 @@
+Item Name Item Cost
+Milk   5.0
+Cheese   3.0
+Bread   3.0
+Crackers   1.8
+Yogurt   6.0
